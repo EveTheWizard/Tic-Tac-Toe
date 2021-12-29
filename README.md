@@ -1,2 +1,2 @@
-# Tic Tac Toe
- A Simple Multiplater TicTacToe game with online play
+# tic-tac-toe-server
+A Networking Project
